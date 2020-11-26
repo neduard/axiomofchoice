@@ -4,7 +4,7 @@ Keeps you up to date.
 ## [Communications of the ACM](http://cacm.acm.org/)
 [Cantrill approved](https://www.youtube.com/watch?v=MzxVo27hERk)
 
-### Who's Cantrill? 
+### Who's Cantrill?
 
 <http://www.bsdnow.tv/episodes/2015_08_19-ubuntu_slaughters_kittens>
 
@@ -30,4 +30,6 @@ TL;DR:
 * Understanding programming
 * Gotchas
 
+# Misc
 
+- [Stated Clearly](https://www.youtube.com/channel/UC_cznB5YZZmvAmeq7Y3EriQ) channel for understanding biology and the [origin of life](https://youtu.be/yTxZXkp-6sI).
