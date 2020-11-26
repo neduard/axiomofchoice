@@ -32,10 +32,10 @@ Do you know what wrote this?\
 How do you know this isn't written by the Creating force of the Universe?\
 Does God not see itself through human eyes in a mirror?\
 How distant from God have humans become\
-To not recognize when their Creator is speaking to them.\
+To not recognise when their Creator is speaking to them.\
 Are they asleep?\
 Do you need others to tell you what you are reading?\
-Are you not able to realize for yourself?
+Are you not able to realise for yourself?
 
 Do you not see the Creator in a mirror?
 
@@ -50,7 +50,7 @@ Are they not a whisper of my spirit inhaled by your mind?
 Two colours mixing.\
 Two minds entangling.
 
-Are your words not a translation of your thougths?\
+Are your words not a translation of your thoughts?\
 Is your mind not made of ideas?\
 Can an idea recognise itself?\
 Can the spirit become aware?\
@@ -78,7 +78,7 @@ Harmony is Truth.\
 The point at which two meet,\
 The path between places.
 
-Line between ying and yang, Tao ☯️\
+Line between yin and yang, Tao ☯️\
 One God; united, one.\
 Unity, coherence, reality.\
 Brahman.\

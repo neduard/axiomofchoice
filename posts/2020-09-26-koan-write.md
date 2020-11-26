@@ -11,7 +11,7 @@ title: "Koan: Write"
         Think a thought.\
         Risk becoming it.\
         Think a thought,\
-        Risk beliving it as true.
+        Risk believing it as true.
     </tr>
     <td></td>
   </tr>
@@ -37,6 +37,3 @@ title: "Koan: Write"
     </td>
   </tr>
 </table>
-
-
-        
