@@ -8,7 +8,7 @@ import           System.Exit (exitWith)
 
 website =
     hakyllWithExitCode config $ do
-        match "images/*" $ do
+        match "images/**" $ do
             route   idRoute
             compile copyFileCompiler
 
