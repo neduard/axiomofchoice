@@ -4,7 +4,7 @@ title: You are the universe in ecstatic motion
 
 > Why are you acting so small? You are the Universe in ecstatic motion - _Rumi_
 
-![](../images/you-are-the-universe-in-ecstatic-motion.jpg){width=100%}
+![](../images/you-are-the-universe-in-ecstatic-motion.png){width=100%}
 
 The red arrows represent the "creating force": propagation of information that is adapted / conforming to (its) reality.
 
