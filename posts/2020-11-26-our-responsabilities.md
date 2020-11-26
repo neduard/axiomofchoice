@@ -28,3 +28,5 @@ Or, as presented by someone else...
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
+
+ Do you disagree?  [Let me know](https://github.com/neduard/axiomofchoice/issues).
