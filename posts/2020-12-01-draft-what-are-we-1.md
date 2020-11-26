@@ -59,13 +59,19 @@ Adaptations happen at different rates:
 - fast: our mind's memory.  Can recal and adapt drastically within an
   individual's lifetime.
 
+
 By the way, did you know sexual reproduction actually maximises [population
 survivability](https://youtu.be/KP0WFbdHhJM) instead of individual survivability?
 
-Also by the way, did you also know cooperation is a very good evolutionary strategy
-which is why it shows up in individuals even among animals?
+Also by the way, did you also know cooperation is a very good evolutionary
+strategy which is why it shows up in individuals even among animals?
 ([video](https://youtu.be/A8Y0kCdYoug),
 [book](https://www.goodreads.com/book/show/9725771-supercooperators))
+
+Note therefore the conflict between survival of the individual (a.k.a. the _ego_)
+vs survival of the whole species.  As individuals, the characteristics that
+ensure our own survival (selfishness, narcissism, manipulation, lying, etc) are
+not traits that benefit survival of the species.
 
 # Those who don't remember history are bound to repeat it
 
