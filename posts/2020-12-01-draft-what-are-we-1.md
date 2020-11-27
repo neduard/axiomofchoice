@@ -2,7 +2,7 @@
 title: "DRAFT: Understanding what we are: Part I"
 ---
 
-The last question my former mind-identified self asked was "but what am I?".
+The last question my former mind-identified self asked was "but what am _I_?".
 This [happened](https://www.reddit.com/r/Meditation/comments/gp31bq/how_can_i_help_myself/)
 on Saturday 23rd of May 2020.
 
@@ -11,7 +11,7 @@ on Saturday 23rd of May 2020.
 
 # Material
 
-We are made of atoms and mollecules.
+We are made of atoms and molecules.
 
 ![](../images/what-are-we-1/material.png){width=100%}
 
@@ -32,15 +32,15 @@ This is related to the idea of a "Great Filter":
   allowfullscreen></iframe>
 
 So notice everything alive today is the endpoint of a continuous history of
-reproduction that can be traced all the way back to the beginning of life on
-Earth.
+reproduction and speciation that can be traced all the way back to the beginning
+of life on Earth.
 
 ![](../images/what-are-we-1/birth.png)
 
 # Why is this happening?
 
-- Existence of time
-- [Entropy](https://youtu.be/vSgPRj207uE) always increasing and
+- Existence of time,
+- [Entropy](https://youtu.be/vSgPRj207uE) that is always increasing and
 - A quirk of chemistry that allows [self-replicating molecules](https://youtu.be/K1xnYFCZ9Yg)
 to form (also [this](https://youtu.be/yTxZXkp-6sI) from same channel).
 
@@ -56,20 +56,21 @@ Adaptations happen at different rates:
 - slow: Genetic adaptations, stored as information in our DNA
 - medium: cultural adaptation, transmitted initially as oral tradition, later
   replaced by books.
-- fast: our mind's memory.  Can recal and adapt drastically within an
-  individual's lifetime.
+- fast: our mind's memory.  Can recall and adapt within an individual's
+  lifetime.
 
+## Ubiquotus adaptations
 
-By the way, did you know sexual reproduction actually maximises [population
+Did you know sexual reproduction actually maximises [population
 survivability](https://youtu.be/KP0WFbdHhJM) instead of individual survivability?
 
-Also by the way, did you also know cooperation is a very good evolutionary
-strategy which is why it shows up in individuals even among animals?
+Did you also know cooperation is a very good evolutionary strategy which is why
+it shows up in individuals even among animals?
 ([video](https://youtu.be/A8Y0kCdYoug),
 [book](https://www.goodreads.com/book/show/9725771-supercooperators))
 
 Note therefore the conflict between survival of the individual (a.k.a. the _ego_)
-vs survival of the whole species.  As individuals, the characteristics that
+and survival of the whole species.  As individuals, the characteristics that
 ensure our own survival (selfishness, narcissism, manipulation, lying, etc) are
 not traits that benefit survival of the species.
 
@@ -81,11 +82,12 @@ encountered.  It is stored in a number of locations:
 
 - DNA
 - cultural stories, myths, legends, fables, proverbs
+- cultural behaviours, how we were brought up, ways of being
 - textbooks
-- lessons transmited orally
-- our neural conexions that make up our memory
+- lessons transmitted orally
+- our neural connections that make up our memory
 
-**Observe therefore, how we are the physical manifestation of the spirit**
+**Observe therefore, how we are the physical manifestation of spirit**
 
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/JQVmkDUkZT4"
