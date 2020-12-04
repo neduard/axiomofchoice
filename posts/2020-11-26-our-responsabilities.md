@@ -24,7 +24,7 @@ Finally, we must say openly when we disagree and give our reasoning.  It is how 
 
 Or, as presented by someone else...
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vyt-62JsZjw"
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/vyt-62JsZjw"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
